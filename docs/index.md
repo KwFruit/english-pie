@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text:  Quickstart
-      link: /course/1.Vocabulary/1.202403/1.20240317.md
+      link: /course/1.Vocabulary/1.202403/20240317.md
   image:
     #src: /5854023_drinks_glass_ice_juice_lemon_icon.png
     src: /undraw_outer_space_re_u9vd.svg

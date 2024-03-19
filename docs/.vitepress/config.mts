@@ -33,7 +33,7 @@ export default defineConfig({
       {
         text: 'Vocabulary',
         items: [
-          { text: 'Ten Words Daily', link: '/course/1.Vocabulary/1.202403/1.20240317.md' },
+          { text: 'Ten Words Daily', link: '/course/1.Vocabulary/1.202403/20240317.md' },
         ]
       },
       {
